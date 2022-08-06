@@ -13,7 +13,7 @@
 ```npm
 npm init
 ```
-** (2) Install tailwindcss and its peer dependencies via npm, and create your tailwind.config.js file**
+**(2) Install tailwindcss and its peer dependencies via npm, and create your tailwind.config.js file**
 ```
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
